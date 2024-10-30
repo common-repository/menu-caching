@@ -1,0 +1,69 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Menu Caching\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-10 20:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: wp-menu-caching"
+
+#: admin/class-menu-caching-admin.php:91
+msgid "Enable/Disable Caching per Menu"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://theodorosgkitsos.com/"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-menu-caching-admin.php:53 admin/class-menu-caching-admin.php:54
+msgid "Menu Caching"
+msgstr ""
+
+#: admin/class-menu-caching-admin.php:451
+msgid "Menus cache purged successfully!"
+msgstr ""
+
+#: admin/class-menu-caching-admin.php:83
+msgid "Purge All Menus' Cache"
+msgstr ""
+
+#: admin/class-menu-caching-admin.php:85
+msgid "Purge Cache"
+msgstr ""
+
+#: admin/class-menu-caching-admin.php:108
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-menu-caching-admin.php:93
+msgid ""
+"Select the menus you want to enable caching. Caching is enabled by default "
+"for all menus."
+msgstr ""
+
+#: admin/class-menu-caching-admin.php:410
+msgid "Settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "Theo Gkitsos"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin caches WordPress classic menus to improve page loading time."
+msgstr ""
+
+#: admin/class-menu-caching-admin.php:76
+msgid "Tools and info about menu caching."
+msgstr ""
